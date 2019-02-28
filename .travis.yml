@@ -6,6 +6,9 @@ python:
 # command to install dependencies
 install:
   - pip install -r requirements.txt
+  
+script:
+  - echo "no scripts"
 
 after_success:
   - bash <(curl -s https://scripts.scantist.com/staging/ci-travis-jar.sh)
