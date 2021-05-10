@@ -21,3 +21,4 @@ Total number of dependencies:
 
 #### What's next?
 By running the security scanner of your choice against `with-requirements-file` project, you should get results that are coherent with the details above if the tool supports using requirements.txt to manage python dependencies.
+
