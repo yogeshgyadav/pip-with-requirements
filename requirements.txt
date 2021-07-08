@@ -1,5 +1,5 @@
 django==1.7.1
-PyJWT==0.4.2
+PyJWT==1.5.1
 rsa==3.4
 requests==2.19.1
 feedparser==5.1.3
