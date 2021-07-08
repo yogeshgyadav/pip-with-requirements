@@ -1,4 +1,4 @@
-django==1.7.1
+django==2.2.18
 PyJWT==1.5.1
 rsa==4.7
 requests==2.22.0
